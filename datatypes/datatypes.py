@@ -1,0 +1,6 @@
+print(type(10))
+print(type(3.14))
+print(type("python"))
+print(type(True))
+print(type(2+3j))
+print(type(None))

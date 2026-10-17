@@ -1,4 +1,4 @@
-num1 =   int(input("enter first number"))
-num2 = int(input("enter second number"))
-result = num1 + num2
-print(result)
+name = input("enter the name :  ")
+age = int(input("enter the age : "))
+print(type(name) , type(age))
+print(name, "is" ,age)

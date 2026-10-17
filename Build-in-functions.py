@@ -1,0 +1,10 @@
+nums = [4, 1, 9, 3]
+print(len(nums), max(nums), min(nums), sum(nums))
+print(sorted(nums), sorted(nums, reverse=True))
+print(abs(-7), round(3.567, 2), pow(2, 5))
+print(list(range(5)), list(reversed(nums)))
+print(list(enumerate("abc")))
+print(list(zip([1, 2], ["a", "b"])))
+print(all([1, 1, 0]), any([0, 0, 1]))
+print(chr(65), ord("a"), bin(10), hex(255))
+print(divmod(17, 5))
